@@ -1,0 +1,3 @@
+# Diga ao Git para gerenciar os finais de linha automaticamente.
+# Isso armazena arquivos de texto com LF no repositório e os converte para o formato nativo do SO localmente.
+* text=auto
